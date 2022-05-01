@@ -1,0 +1,4 @@
+Hello every one
+my name is abdulwasiu dolapo
+i have been able to set some git up command
+to push my first task to git hub 
